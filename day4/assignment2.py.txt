@@ -1,0 +1,12 @@
+# Function to calculate the square of a number
+def square(num):
+    return num * num  # Return the square of the number
+square(5) #Calling the function
+
+
+
+"""Calling the function with one number
+Input: num=5
+Output:25"""
+
+

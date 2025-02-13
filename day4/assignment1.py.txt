@@ -1,0 +1,11 @@
+# Declare a div() function with two parameters. Then call the function and pass two numbers and display their division.
+def div(a, b):
+    return a / b  # Return the result of division
+
+div(10,2) #Calling the function
+
+"""Calling the function with two numbers
+Input: a = 10
+Input: b = 2
+Output: 5"""
+
